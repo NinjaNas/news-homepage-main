@@ -26,12 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
-![image](https://github.com/NinjaNas/news-homepage-main/assets/54213302/558242bc-5e56-4588-8142-59df32543edb)
+![image](https://github.com/NinjaNas/news-homepage-main/assets/54213302/2e27154c-6b26-4692-b773-6eabc05054d5)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Page](https://www.frontendmentor.io/solutions/newshomepagemain-pIbS1KdMst)
+- Live Site URL: [Vercel](https://news-homepage-main-neon-pi.vercel.app/)
 
 ## My process
 
