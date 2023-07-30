@@ -26,7 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![image](https://github.com/NinjaNas/news-homepage-main/assets/54213302/558242bc-5e56-4588-8142-59df32543edb)
+![image](https://github.com/NinjaNas/news-homepage-main/assets/54213302/2e27154c-6b26-4692-b773-6eabc05054d5)
+
 
 ### Links
 
