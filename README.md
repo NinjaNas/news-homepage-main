@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Page](https://www.frontendmentor.io/solutions/newshomepagemain-pIbS1KdMst)
+- Live Site URL: [Vercel](https://news-homepage-main-neon-pi.vercel.app/)
 
 ## My process
 
