@@ -4,7 +4,7 @@ import SidebarArticle from "./SidebarArticle";
 
 export default function Home() {
 	return (
-		<div class="grid gap-10 xl:grid-cols-3">
+		<div role="main" class="grid gap-10 xl:grid-cols-3">
 			<div class="xl:col-span-2">
 				<div class="hidden xl:block">
 					<FrontPageArticle

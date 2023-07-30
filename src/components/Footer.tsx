@@ -1,6 +1,6 @@
 export default function Footer() {
 	return (
-		<div class="grid grid-cols-3 py-10 text-center text-footer">
+		<div role="contentinfo" class="grid grid-cols-3 py-10 text-center text-footer">
 			<div class="col-start-2 col-end-3">
 				Challenge by
 				<a
