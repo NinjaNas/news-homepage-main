@@ -3,7 +3,11 @@ export default function Footer() {
 		<div class="grid grid-cols-3 py-10 text-center text-footer">
 			<div class="col-start-2 col-end-3">
 				Challenge by
-				<a class="text-blueish" href="https://www.frontendmentor.io?ref=challenge" target="_blank">
+				<a
+					class="text-blueish"
+					href="https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl"
+					target="_blank"
+				>
 					{" "}
 					Frontend Mentor
 				</a>
