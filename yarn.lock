@@ -469,6 +469,11 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
+"@solidjs/router@^0.8.2":
+  version "0.8.2"
+  resolved "https://registry.yarnpkg.com/@solidjs/router/-/router-0.8.2.tgz#3dd82fd052cb8654a2948989ed3e17cf6b25b04d"
+  integrity sha512-gUKW+LZqxtX6y/Aw6JKyy4gQ9E7dLqp513oB9pSYJR1HM5c56Pf7eijzyXX+b3WuXig18Cxqah4tMtF0YGu80w==
+
 "@types/babel__core@^7.1.20":
   version "7.20.1"
   resolved "https://registry.yarnpkg.com/@types/babel__core/-/babel__core-7.20.1.tgz#916ecea274b0c776fec721e333e55762d3a9614b"
@@ -1067,6 +1072,16 @@ postcss@^8.4.23, postcss@^8.4.26, postcss@^8.4.27:
     nanoid "^3.3.6"
     picocolors "^1.0.0"
     source-map-js "^1.0.2"
+
+prettier-plugin-tailwindcss@^0.4.1:
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/prettier-plugin-tailwindcss/-/prettier-plugin-tailwindcss-0.4.1.tgz#f7ed664199540978b2cbd037bac3a337d6689e86"
+  integrity sha512-hwn2EiJmv8M+AW4YDkbjJ6HlZCTzLyz1QlySn9sMuKV/Px0fjwldlB7tol8GzdgqtkdPtzT3iJ4UzdnYXP25Ag==
+
+prettier@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.0.0.tgz#e7b19f691245a21d618c68bc54dc06122f6105ae"
+  integrity sha512-zBf5eHpwHOGPC47h0zrPyNn+eAEIdEzfywMoYn2XPi0P44Zp0tSq64rq0xAREh4auw2cJZHo9QUob+NqCQky4g==
 
 queue-microtask@^1.2.2:
   version "1.2.3"
