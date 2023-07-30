@@ -34,16 +34,14 @@ const Navbar = (props: NavbarProps) => {
 				<Index each={tabs()}>
 					{tab => {
 						return (
-							<>
-								<li>
-									<A
-										class="text-body text-dark-gray-blue hover:text-soft-orange"
-										href={tab() === "Home" ? "/" : `/${tab().toLowerCase()}`}
-									>
-										{tab()}
-									</A>
-								</li>
-							</>
+							<li>
+								<A
+									class="text-body text-dark-gray-blue hover:text-soft-orange"
+									href={tab() === "Home" ? "/" : `/${tab().toLowerCase()}`}
+								>
+									{tab()}
+								</A>
+							</li>
 						);
 					}}
 				</Index>
@@ -81,16 +79,14 @@ const Navbar = (props: NavbarProps) => {
 							<Index each={tabs()}>
 								{tab => {
 									return (
-										<>
-											<li>
-												<A
-													class="z-50 text-xl text-dark-blue hover:text-soft-orange"
-													href={tab() === "Home" ? "/" : `/${tab().toLowerCase()}`}
-												>
-													{tab()}
-												</A>
-											</li>
-										</>
+										<li>
+											<A
+												class="z-50 text-xl text-dark-blue hover:text-soft-orange"
+												href={tab() === "Home" ? "/" : `/${tab().toLowerCase()}`}
+											>
+												{tab()}
+											</A>
+										</li>
 									);
 								}}
 							</Index>
