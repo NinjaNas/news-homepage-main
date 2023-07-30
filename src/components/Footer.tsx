@@ -1,6 +1,9 @@
 export default function Footer() {
 	return (
-		<div role="contentinfo" class="grid grid-cols-3 py-10 text-center text-footer">
+		<div
+			role="contentinfo"
+			class="grid origin-center grid-cols-3 py-10 text-center text-footer 5xl:scale-150"
+		>
 			<div class="col-start-2 col-end-3">
 				Challenge by
 				<a

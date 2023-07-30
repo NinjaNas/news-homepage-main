@@ -11,7 +11,10 @@ const Navbar = (props: NavbarProps) => {
 	const [isMobileMenuOpen, setIsMobileMenuOpen] = createSignal(false);
 
 	return (
-		<nav role="navigation" class="flex items-center justify-between py-10">
+		<nav
+			role="navigation"
+			class="flex origin-center items-center justify-between py-10 5xl:scale-150"
+		>
 			<A href="/">
 				<img src="/images/logo.svg" alt="logo"></img>
 			</A>
