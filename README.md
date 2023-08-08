@@ -31,7 +31,7 @@ Users should be able to:
 
 - Solution URL: [Solution Page](https://www.frontendmentor.io/solutions/newshomepagemain-pIbS1KdMst)
 - Live Site URL: [Vercel](https://news-homepage-main-neon-pi.vercel.app/)
-- DockerHub: [Container](https://hub.docker.com/repository/docker/ninjanas/news-homepage-main/general)
+- DockerHub: [Repository](https://hub.docker.com/repository/docker/ninjanas/news-homepage-main/general)
 
 ## My process
 
